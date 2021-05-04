@@ -1,13 +1,11 @@
 # my-desc
-Selamat datang stah
+Selamat datang stah:)
 
-$import os,sys
-
-$print('Hello Work')
+$print('Hello World!')
 
 
 Follow me...!!!
 
 dah...
 Mantap"
-Ok
+$exit()
